@@ -104,3 +104,4 @@ struct AccountInsightsView_Previews: PreviewProvider {
         AccountInsightsView()
     }
 }
+

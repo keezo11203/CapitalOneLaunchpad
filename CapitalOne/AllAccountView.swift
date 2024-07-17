@@ -48,3 +48,4 @@ struct AllAccountView_Previews: PreviewProvider {
         AllAccountView()
     }
 }
+

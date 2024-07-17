@@ -54,6 +54,7 @@ struct BalanceView: View {
     }
 }
 
+
 struct ProgressBar: View {
     var value: Double
 
